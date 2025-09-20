@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm 0xShaurya</h1>
 <h3 align="center">Offensive Security | Red Team Ops | Malware Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xsharuya&label=Profile%20views&color=0e75b6&style=flat" alt="0xsharuya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xShaurya&label=Profile%20views&color=0e75b6&style=flat" alt="0xShaurya" /> </p>
 
 - 🔭 I’m currently working on **Red Team tactics & Malware R&D • AI integration in security tools**
 
