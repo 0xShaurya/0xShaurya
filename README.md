@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xshaurya&label=Profile%20views&color=0e75b6&style=flat" alt="0xshaurya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xshaurya" alt="0xshaurya" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/heyyshaurya" target="blank"><img src="https://img.shields.io/twitter/follow/heyyshaurya?logo=twitter&style=for-the-badge" alt="heyyshaurya" /></a> </p>
 
 - 🔭 I’m currently working on **Red Team tactics & Malware R&D • AI integration in security tools**
