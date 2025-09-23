@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shauryaa.exe@gmail.com**
 
-- 📄 Know about my experiences [Coming soon...](Coming soon...)
+- 📄 Know about my experiences (Coming soon...)
 
 - ⚡ :) **Discipline beats motivation, every single time.**
 
