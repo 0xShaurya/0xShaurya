@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **I’m looking for help with exploring advanced Red Team tactics & malware R&D.**
 
-- 👨‍💻 All of my projects are available at [Portfolio coming soon..](Portfolio coming soon..)
+- 👨‍💻 All of my projects are available at (Portfolio coming soon..)
 
 - 📫 How to reach me **shauryaa.exe@gmail.com**
 
