@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Offensive security & red team research projects**
 
-- 🤝 I’m looking for help with **I’m looking for help with exploring advanced Red Team tactics & malware R&D.**
+- 🤝 I’m looking for help with **exploring advanced Red Team tactics & malware R&D.**
 
 - 👨‍💻 All of my projects are available at (Portfolio coming soon..)
 
